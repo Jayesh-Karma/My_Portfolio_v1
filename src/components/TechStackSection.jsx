@@ -45,7 +45,7 @@ const TechStackSection = ({ className = "" }) => {
                 </div>
                 <div className="self-stretch h-[22.813rem] relative overflow-hidden shrink-0">
                   <img
-                    className="absolute top-[3.938rem] left-[9.6rem] w-[13.975rem] h-[16.456rem] object-cover"
+                    className="absolute top-[3.938rem] left-[9.6rem] lg:left-[5rem] w-[13.975rem] h-[16.456rem] object-cover"
                     loading="lazy"
                     alt=""
                     src="/my-project-2@2x.png"
